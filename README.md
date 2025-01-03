@@ -28,7 +28,7 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/mohammad8186/Spark_Cluster_Jupyter_Notebook_Python.git>
+   git clone https://github.com/mohammad8186/Spark_Cluster_Jupyter_Notebook_Python.git
    ```
 
 2. Navigate to the project directory
